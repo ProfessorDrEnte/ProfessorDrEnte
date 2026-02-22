@@ -19,4 +19,4 @@ Outside of coding, I skate and do art (:
 
 ## Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=ProfessorDrEnte&show_icons=true&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=ProfessorDrEnte&show_icons=true&hide_border=true&cache_seconds=1800)
